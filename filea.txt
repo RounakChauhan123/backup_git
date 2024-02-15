@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello world
-
-=======
 Hello world new contenta
->>>>>>> 968019da2bc5984e98ff95e870c7f91f4100e863
